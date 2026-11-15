@@ -139,7 +139,7 @@ python3 server.py
 
 Open the following address in your browser:
 
-http://localhost:8080
+https://better-malloc.onrender.com/
 
 Every click in the browser calls the compiled C functions in `libmymalloc.so` and prints the corresponding `Mem_Dump()` output in your terminal simultaneously.
 
